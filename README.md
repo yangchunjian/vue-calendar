@@ -141,8 +141,3 @@ export default {
     }
 }
 ```
- 
-# Conatct
-
-- Tencent QQ Group: 240319632
-- E-mail: 129@jinzhe.net
